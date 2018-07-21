@@ -5,3 +5,4 @@ myvenv
 db.sqlite
 /static
 .DS_Store
+.vscode
